@@ -1,0 +1,2 @@
+findRisk(45,Risk,['mental'],switzerland
+,no).
